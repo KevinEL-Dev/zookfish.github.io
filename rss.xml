@@ -6,9 +6,16 @@
     <link>https://zookfish.com</link>
     <description>zooks website</description>
     <item>
-      <title>Lorem Ispum</title>
-      <link>https://zookfish.com/blog/2026-02-12post.html</link>
-      <description>testing blog post for lorem ispum</description>
+      <title>How I would go about losing weight in 2026</title>
+      <link>https://zookfish.com/blog/2026-02-14post.html</link>
+      <guid>https://zookfish.com/blog/2026-02-14post.html</guid>
+      <pubDate>Sat, 14 Feb 2026 01:47:00 -0500</pubDate>
+      <description>
+        If I had to condense everything Id say figure out your tdee, eat at a deficit, weigh daily,
+        cook for your self, make sure your environment works for you(no snacks etc),track calories
+        and weigh your food ,drink water, and get enough sleep. Remember that you are loved and
+        thanks for reading.
+      </description>
     </item>
   </channel>
 </rss>
